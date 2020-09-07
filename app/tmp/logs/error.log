@@ -16387,3 +16387,1609 @@ Stack Trace:
 #4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
 #5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #6 {main}
+2020-09-07 06:47:23 Error: [ParseError] syntax error, unexpected '<<' (T_SL), expecting end of file
+Request URL: /sgv/
+Stack Trace:
+#0 [internal function]: App::load('UsuariosControl...')
+#1 [internal function]: spl_autoload_call('UsuariosControl...')
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(266): class_exists('UsuariosControl...')
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2020-09-07 06:48:41 Error: [ParseError] syntax error, unexpected '<<' (T_SL), expecting end of file
+Request URL: /sgv/
+Stack Trace:
+#0 [internal function]: App::load('UsuariosControl...')
+#1 [internal function]: spl_autoload_call('UsuariosControl...')
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(266): class_exists('UsuariosControl...')
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2020-09-07 06:48:43 Error: [ParseError] syntax error, unexpected '<<' (T_SL), expecting end of file
+Request URL: /sgv/
+Stack Trace:
+#0 [internal function]: App::load('UsuariosControl...')
+#1 [internal function]: spl_autoload_call('UsuariosControl...')
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(266): class_exists('UsuariosControl...')
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2020-09-07 06:48:45 Error: [ParseError] syntax error, unexpected '<<' (T_SL), expecting end of file
+Request URL: /sgv/
+Stack Trace:
+#0 [internal function]: App::load('UsuariosControl...')
+#1 [internal function]: spl_autoload_call('UsuariosControl...')
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(266): class_exists('UsuariosControl...')
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2020-09-07 06:49:54 Error: [ParseError] syntax error, unexpected '<<' (T_SL), expecting end of file
+Request URL: /sgv/
+Stack Trace:
+#0 [internal function]: App::load('UsuariosControl...')
+#1 [internal function]: spl_autoload_call('UsuariosControl...')
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(266): class_exists('UsuariosControl...')
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2020-09-07 06:50:18 Error: [ParseError] syntax error, unexpected '<<' (T_SL), expecting end of file
+Request URL: /sgv/
+Stack Trace:
+#0 [internal function]: App::load('UsuariosControl...')
+#1 [internal function]: spl_autoload_call('UsuariosControl...')
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(266): class_exists('UsuariosControl...')
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2020-09-07 06:57:13 Error: [ParseError] syntax error, unexpected '<<' (T_SL), expecting end of file
+Request URL: /sgv/
+Stack Trace:
+#0 [internal function]: App::load('UsuariosControl...')
+#1 [internal function]: spl_autoload_call('UsuariosControl...')
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(266): class_exists('UsuariosControl...')
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2020-09-07 06:58:17 Error: [ParseError] syntax error, unexpected '<<' (T_SL), expecting end of file
+Request URL: /sgv/
+Stack Trace:
+#0 [internal function]: App::load('UsuariosControl...')
+#1 [internal function]: spl_autoload_call('UsuariosControl...')
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(266): class_exists('UsuariosControl...')
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2020-09-07 06:58:18 Error: [ParseError] syntax error, unexpected '<<' (T_SL), expecting end of file
+Request URL: /sgv/
+Stack Trace:
+#0 [internal function]: App::load('UsuariosControl...')
+#1 [internal function]: spl_autoload_call('UsuariosControl...')
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(266): class_exists('UsuariosControl...')
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2020-09-07 06:58:27 Error: [ParseError] syntax error, unexpected '<<' (T_SL), expecting end of file
+Request URL: /sgv/
+Stack Trace:
+#0 [internal function]: App::load('UsuariosControl...')
+#1 [internal function]: spl_autoload_call('UsuariosControl...')
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(266): class_exists('UsuariosControl...')
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2020-09-07 06:58:27 Error: [ParseError] syntax error, unexpected '<<' (T_SL), expecting end of file
+Request URL: /sgv/
+Stack Trace:
+#0 [internal function]: App::load('UsuariosControl...')
+#1 [internal function]: spl_autoload_call('UsuariosControl...')
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(266): class_exists('UsuariosControl...')
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2020-09-07 07:02:10 Error: [MissingActionException] Action UsuariosController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'add',
+)
+Request URL: /sgv/
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:02:11 Error: [MissingActionException] Action UsuariosController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'add',
+)
+Request URL: /sgv/
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:02:11 Error: [MissingActionException] Action UsuariosController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'add',
+)
+Request URL: /sgv/
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:02:20 Error: [MissingControllerException] Controller class LocalhostController could not be found.
+Exception Attributes: array (
+  'class' => 'LocalhostController',
+  'plugin' => NULL,
+)
+Request URL: /sgv/localhost/sgv/usuarios/login
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-09-07 07:02:21 Error: [MissingControllerException] Controller class LocalhostController could not be found.
+Exception Attributes: array (
+  'class' => 'LocalhostController',
+  'plugin' => NULL,
+)
+Request URL: /sgv/localhost/sgv/usuarios/vendor/fontawesome-free/css/all.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-09-07 07:02:21 Error: [MissingControllerException] Controller class LocalhostController could not be found.
+Exception Attributes: array (
+  'class' => 'LocalhostController',
+  'plugin' => NULL,
+)
+Request URL: /sgv/localhost/sgv/usuarios/vendor/bootstrap/js/bootstrap.bundle.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-09-07 07:02:21 Error: [MissingControllerException] Controller class LocalhostController could not be found.
+Exception Attributes: array (
+  'class' => 'LocalhostController',
+  'plugin' => NULL,
+)
+Request URL: /sgv/localhost/sgv/usuarios/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-09-07 07:02:21 Error: [MissingControllerException] Controller class LocalhostController could not be found.
+Exception Attributes: array (
+  'class' => 'LocalhostController',
+  'plugin' => NULL,
+)
+Request URL: /sgv/localhost/sgv/usuarios/vendor/jquery-easing/jquery.easing.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-09-07 07:02:21 Error: [MissingControllerException] Controller class LocalhostController could not be found.
+Exception Attributes: array (
+  'class' => 'LocalhostController',
+  'plugin' => NULL,
+)
+Request URL: /sgv/localhost/sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-09-07 07:02:22 Error: [MissingControllerException] Controller class LocalhostController could not be found.
+Exception Attributes: array (
+  'class' => 'LocalhostController',
+  'plugin' => NULL,
+)
+Request URL: /sgv/localhost/sgv/usuarios/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-09-07 07:02:22 Error: [MissingControllerException] Controller class LocalhostController could not be found.
+Exception Attributes: array (
+  'class' => 'LocalhostController',
+  'plugin' => NULL,
+)
+Request URL: /sgv/localhost/sgv/usuarios/vendor/bootstrap/js/bootstrap.bundle.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-09-07 07:02:22 Error: [MissingControllerException] Controller class LocalhostController could not be found.
+Exception Attributes: array (
+  'class' => 'LocalhostController',
+  'plugin' => NULL,
+)
+Request URL: /sgv/localhost/sgv/usuarios/vendor/jquery-easing/jquery.easing.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-09-07 07:02:23 Error: [MissingControllerException] Controller class LocalhostController could not be found.
+Exception Attributes: array (
+  'class' => 'LocalhostController',
+  'plugin' => NULL,
+)
+Request URL: /sgv/localhost/sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-09-07 07:03:07 Error: [MissingActionException] Action UsuariosController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'add',
+)
+Request URL: /sgv/
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:03:07 Error: [MissingActionException] Action UsuariosController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'add',
+)
+Request URL: /sgv/
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:03:14 Error: [MissingViewException] View file "Usuarios\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Usuarios\\login.ctp',
+)
+Request URL: /sgv/usuarios/login
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\View\View.php(470): View->_getViewFileName('Usuarios\\login')
+#1 C:\xampp\htdocs\sgv\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-09-07 07:03:15 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/fontawesome-free/css/all.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:03:15 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:03:15 Error: [MissingActionException] Action UsuariosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'js',
+)
+Request URL: /sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:03:15 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery-easing/jquery.easing.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:03:15 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/bootstrap/js/bootstrap.bundle.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:03:15 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:03:16 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/bootstrap/js/bootstrap.bundle.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:03:16 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery-easing/jquery.easing.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:03:16 Error: [MissingActionException] Action UsuariosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'js',
+)
+Request URL: /sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:07:50 Error: [MissingActionException] Action UsuariosController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'add',
+)
+Request URL: /sgv/
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:07:59 Error: [MissingViewException] View file "Usuarios\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Usuarios\\login.ctp',
+)
+Request URL: /sgv/usuarios/login
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\View\View.php(470): View->_getViewFileName('Usuarios\\login')
+#1 C:\xampp\htdocs\sgv\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-09-07 07:07:59 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/fontawesome-free/css/all.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:07:59 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:07:59 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/bootstrap/js/bootstrap.bundle.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:07:59 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery-easing/jquery.easing.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:08:00 Error: [MissingActionException] Action UsuariosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'js',
+)
+Request URL: /sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:08:00 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:08:00 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/bootstrap/js/bootstrap.bundle.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:08:01 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery-easing/jquery.easing.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:08:01 Error: [MissingActionException] Action UsuariosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'js',
+)
+Request URL: /sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:08:52 Error: [MissingActionException] Action UsuariosController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'add',
+)
+Request URL: /sgv/
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:08:53 Error: [MissingActionException] Action UsuariosController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'add',
+)
+Request URL: /sgv/
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:09:01 Error: [MissingViewException] View file "Usuarios\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Usuarios\\login.ctp',
+)
+Request URL: /sgv/usuarios/login
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\View\View.php(470): View->_getViewFileName('Usuarios\\login')
+#1 C:\xampp\htdocs\sgv\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-09-07 07:09:01 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/fontawesome-free/css/all.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:09:01 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:09:01 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery-easing/jquery.easing.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:09:01 Error: [MissingActionException] Action UsuariosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'js',
+)
+Request URL: /sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:09:01 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/bootstrap/js/bootstrap.bundle.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:09:02 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:09:02 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/bootstrap/js/bootstrap.bundle.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:09:03 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery-easing/jquery.easing.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:09:03 Error: [MissingActionException] Action UsuariosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'js',
+)
+Request URL: /sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:16:58 Error: [MissingActionException] Action UsuariosController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'add',
+)
+Request URL: /sgv/
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:16:58 Error: [MissingActionException] Action UsuariosController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'add',
+)
+Request URL: /sgv/
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:16:59 Error: [MissingActionException] Action UsuariosController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'add',
+)
+Request URL: /sgv/
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:17:00 Error: [MissingActionException] Action UsuariosController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'add',
+)
+Request URL: /sgv/
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:17:05 Error: [MissingDatasourceConfigException] The datasource configuration "" was not found in database.php
+Exception Attributes: array (
+  'config' => NULL,
+)
+Request URL: /sgv/usuarios/login
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject(NULL)
+#1 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(3659): ConnectionManager::getDataSource(NULL)
+#2 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(1162): Model->setDataSource(NULL)
+#3 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(3686): Model->setSource('usuarios')
+#4 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#5 C:\xampp\htdocs\sgv\app\Controller\UsuariosController.php(15): Model->__call('findByEmail', Array)
+#6 [internal function]: UsuariosController->login()
+#7 C:\xampp\htdocs\sgv\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(UsuariosController), Array)
+#8 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#10 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2020-09-07 07:17:06 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery-easing/jquery.easing.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:17:06 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/fontawesome-free/css/all.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:17:06 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:17:06 Error: [MissingActionException] Action UsuariosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'js',
+)
+Request URL: /sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:17:06 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/bootstrap/js/bootstrap.bundle.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:17:07 Error: [MissingActionException] Action UsuariosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'js',
+)
+Request URL: /sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:17:14 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/fontawesome-free/css/all.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:18:47 Error: [MissingDatasourceConfigException] The datasource configuration "" was not found in database.php
+Exception Attributes: array (
+  'config' => NULL,
+)
+Request URL: /sgv/usuarios/login
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject(NULL)
+#1 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(3659): ConnectionManager::getDataSource(NULL)
+#2 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(1162): Model->setDataSource(NULL)
+#3 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(3686): Model->setSource('usuarios')
+#4 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#5 C:\xampp\htdocs\sgv\app\Controller\UsuariosController.php(15): Model->__call('findByEmail', Array)
+#6 [internal function]: UsuariosController->login()
+#7 C:\xampp\htdocs\sgv\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(UsuariosController), Array)
+#8 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#10 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2020-09-07 07:18:48 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/bootstrap/js/bootstrap.bundle.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:18:48 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:18:48 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/fontawesome-free/css/all.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:18:48 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery-easing/jquery.easing.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:18:48 Error: [MissingActionException] Action UsuariosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'js',
+)
+Request URL: /sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:18:48 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:18:48 Error: [MissingViewException] View file "Usuarios\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Usuarios\\login.ctp',
+)
+Request URL: /sgv/usuarios/login
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\View\View.php(470): View->_getViewFileName('Usuarios\\login')
+#1 C:\xampp\htdocs\sgv\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-09-07 07:18:49 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery-easing/jquery.easing.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:18:49 Error: [MissingActionException] Action UsuariosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'js',
+)
+Request URL: /sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:18:49 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/fontawesome-free/css/all.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:18:49 Error: [MissingActionException] Action UsuariosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'js',
+)
+Request URL: /sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:18:49 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery-easing/jquery.easing.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:18:49 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/bootstrap/js/bootstrap.bundle.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:18:49 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:18:50 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:18:50 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/bootstrap/js/bootstrap.bundle.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:18:51 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery-easing/jquery.easing.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:18:51 Error: [MissingActionException] Action UsuariosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'js',
+)
+Request URL: /sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:18:53 Error: [MissingActionException] Action UsuariosController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'add',
+)
+Request URL: /sgv/
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:18:59 Error: [MissingDatasourceConfigException] The datasource configuration "" was not found in database.php
+Exception Attributes: array (
+  'config' => NULL,
+)
+Request URL: /sgv/usuarios/login
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject(NULL)
+#1 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(3659): ConnectionManager::getDataSource(NULL)
+#2 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(1162): Model->setDataSource(NULL)
+#3 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(3686): Model->setSource('usuarios')
+#4 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#5 C:\xampp\htdocs\sgv\app\Controller\UsuariosController.php(15): Model->__call('findByEmail', Array)
+#6 [internal function]: UsuariosController->login()
+#7 C:\xampp\htdocs\sgv\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(UsuariosController), Array)
+#8 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#10 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2020-09-07 07:19:00 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/bootstrap/js/bootstrap.bundle.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:19:00 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:19:00 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/fontawesome-free/css/all.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:19:00 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery-easing/jquery.easing.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:19:00 Error: [MissingActionException] Action UsuariosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'js',
+)
+Request URL: /sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:19:00 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:19:01 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery-easing/jquery.easing.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:19:01 Error: [MissingActionException] Action UsuariosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'js',
+)
+Request URL: /sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:19:04 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/fontawesome-free/css/all.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:26:47 Error: [MissingActionException] Action UsuariosController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'add',
+)
+Request URL: /sgv/
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:26:52 Error: [MissingDatasourceConfigException] The datasource configuration "" was not found in database.php
+Exception Attributes: array (
+  'config' => NULL,
+)
+Request URL: /sgv/usuarios/login
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject(NULL)
+#1 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(3659): ConnectionManager::getDataSource(NULL)
+#2 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(1162): Model->setDataSource(NULL)
+#3 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(3686): Model->setSource('usuarios')
+#4 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#5 C:\xampp\htdocs\sgv\app\Controller\UsuariosController.php(15): Model->__call('findByEmail', Array)
+#6 [internal function]: UsuariosController->login()
+#7 C:\xampp\htdocs\sgv\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(UsuariosController), Array)
+#8 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#10 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2020-09-07 07:26:53 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/bootstrap/js/bootstrap.bundle.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:26:53 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/fontawesome-free/css/all.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:26:53 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery-easing/jquery.easing.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:26:53 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:26:53 Error: [MissingActionException] Action UsuariosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'js',
+)
+Request URL: /sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:26:53 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:26:54 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery-easing/jquery.easing.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:26:54 Error: [MissingActionException] Action UsuariosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'js',
+)
+Request URL: /sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:26:58 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/fontawesome-free/css/all.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:27:22 Error: [MissingActionException] Action UsuariosController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'add',
+)
+Request URL: /sgv/
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:27:29 Error: [MissingDatasourceConfigException] The datasource configuration "" was not found in database.php
+Exception Attributes: array (
+  'config' => NULL,
+)
+Request URL: /sgv/usuarios/login
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject(NULL)
+#1 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(3659): ConnectionManager::getDataSource(NULL)
+#2 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(1162): Model->setDataSource(NULL)
+#3 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(3686): Model->setSource('usuarios')
+#4 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#5 C:\xampp\htdocs\sgv\app\Controller\UsuariosController.php(15): Model->__call('findByEmail', Array)
+#6 [internal function]: UsuariosController->login()
+#7 C:\xampp\htdocs\sgv\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(UsuariosController), Array)
+#8 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#10 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2020-09-07 07:27:30 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery-easing/jquery.easing.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:27:30 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/fontawesome-free/css/all.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:27:30 Error: [MissingActionException] Action UsuariosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'js',
+)
+Request URL: /sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:27:30 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/bootstrap/js/bootstrap.bundle.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:27:30 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:27:30 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:27:30 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/bootstrap/js/bootstrap.bundle.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:27:30 Error: [MissingActionException] Action UsuariosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'js',
+)
+Request URL: /sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:27:35 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/fontawesome-free/css/all.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:27:56 Error: [MissingActionException] Action UsuariosController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'add',
+)
+Request URL: /sgv/
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:28:02 Error: [MissingDatasourceConfigException] The datasource configuration "" was not found in database.php
+Exception Attributes: array (
+  'config' => NULL,
+)
+Request URL: /sgv/usuarios/login
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject(NULL)
+#1 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(3659): ConnectionManager::getDataSource(NULL)
+#2 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(1162): Model->setDataSource(NULL)
+#3 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(3686): Model->setSource('usuarios')
+#4 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#5 C:\xampp\htdocs\sgv\app\Controller\UsuariosController.php(15): Model->__call('findByEmail', Array)
+#6 [internal function]: UsuariosController->login()
+#7 C:\xampp\htdocs\sgv\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(UsuariosController), Array)
+#8 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#10 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2020-09-07 07:28:03 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery-easing/jquery.easing.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:28:03 Error: [MissingActionException] Action UsuariosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'js',
+)
+Request URL: /sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:28:03 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/fontawesome-free/css/all.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:28:03 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:28:03 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/bootstrap/js/bootstrap.bundle.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:28:03 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:28:03 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/bootstrap/js/bootstrap.bundle.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:28:03 Error: [MissingActionException] Action UsuariosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'js',
+)
+Request URL: /sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:28:10 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/fontawesome-free/css/all.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:33:42 Error: [MissingActionException] Action UsuariosController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'add',
+)
+Request URL: /sgv/
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:33:49 Error: [MissingDatasourceConfigException] The datasource configuration "" was not found in database.php
+Exception Attributes: array (
+  'config' => NULL,
+)
+Request URL: /sgv/usuarios/login
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject(NULL)
+#1 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(3659): ConnectionManager::getDataSource(NULL)
+#2 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(1162): Model->setDataSource(NULL)
+#3 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(3686): Model->setSource('usuarios')
+#4 C:\xampp\htdocs\sgv\lib\Cake\Model\Model.php(3488): Model->getDataSource()
+#5 C:\xampp\htdocs\sgv\app\Controller\UsuariosController.php(17): Model->query('\r\n\t\t\t\t\tselect *...')
+#6 [internal function]: UsuariosController->login()
+#7 C:\xampp\htdocs\sgv\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(UsuariosController), Array)
+#8 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#10 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2020-09-07 07:33:49 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/bootstrap/js/bootstrap.bundle.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:33:49 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery-easing/jquery.easing.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:33:49 Error: [MissingActionException] Action UsuariosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'js',
+)
+Request URL: /sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:33:49 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/fontawesome-free/css/all.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:33:50 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:33:50 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery-easing/jquery.easing.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:33:51 Error: [MissingActionException] Action UsuariosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'js',
+)
+Request URL: /sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-07 07:33:53 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/fontawesome-free/css/all.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}

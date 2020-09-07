@@ -102,42 +102,33 @@
                             <div class="row">
                               
                               <div class="col-md-10">
-                                <div class="p-5">
-                                  <div class="text-center">
-                                    <h1 class="h4 text-gray-900 mb-4">Welcome Back!</h1>
-                                  </div>
-                                  <form class="user">
-                                    <div class="form-group">
-                                      <input type="email" class="form-control form-control-user" id="exampleInputEmail" aria-describedby="emailHelp" placeholder="Enter Email Address...">
+
+                                <form action="usuarios/login" method="post" accept-charset="utf-8" id="form_submit">
+                                    <div class="login-form-head">
+                                        <p>Login</p>
                                     </div>
-                                    <div class="form-group">
-                                      <input type="password" class="form-control form-control-user" id="exampleInputPassword" placeholder="Password">
+                                    <div class="login-form-body">
+                                        <div class="form-gp focused">
+                                            <label for="email">Email</label>
+                                            <input name="data[Usuario][email]" type="text" id="email" autocomplete="off" required="true">
+                                            <i class="ti-key"></i>
+                                        </div>
+                                        <div class="form-gp">
+                                            <label for="senha_usuario">Senha</label>
+                                            <input name="data[Usuario][senha]" type="password" id="senha_usuario" required="true">
+                                            <i class="ti-lock"></i>
+                                        </div>
+                                        <div class="row mb-4 rmber-area">
+                                            <div class="col-12 text-center">
+                                                <a href="#" data-toggle="modal" data-target="#esqueci_minha_senha">Esqueceu sua senha?</a>
+                                            </div>
+                                        </div>
+                                        <div class="submit-btn-area">
+                                            <button style="background: #3D4C74!important;color: #fff!important" id="btn_submit" type="submit">Logar <i class="ti-arrow-right"></i></button>
+                                        </div>
                                     </div>
-                                    <div class="form-group">
-                                      <div class="custom-control custom-checkbox small">
-                                        <input type="checkbox" class="custom-control-input" id="customCheck">
-                                        <label class="custom-control-label" for="customCheck">Remember Me</label>
-                                      </div>
-                                    </div>
-                                    <a href="index.html" class="btn btn-primary btn-user btn-block">
-                                      Login
-                                    </a>
-                                    <hr>
-                                    <a href="index.html" class="btn btn-google btn-user btn-block">
-                                      <i class="fab fa-google fa-fw"></i> Login with Google
-                                    </a>
-                                    <a href="index.html" class="btn btn-facebook btn-user btn-block">
-                                      <i class="fab fa-facebook-f fa-fw"></i> Login with Facebook
-                                    </a>
-                                  </form>
-                                  <hr>
-                                  <div class="text-center">
-                                    <a class="small" href="forgot-password.html">Forgot Password?</a>
-                                  </div>
-                                  <div class="text-center">
-                                    <a class="small" href="register.html">Create an Account!</a>
-                                  </div>
-                                </div>
+                                </form>
+
                               </div>
                             </div>
                           </div>
