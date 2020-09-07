@@ -66,7 +66,7 @@
  */
 class DATABASE_CONFIG {
 
-	public $erp = array(
+	public $default = array(
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
 		'host' => 'localhost',

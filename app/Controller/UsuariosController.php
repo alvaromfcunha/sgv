@@ -9,36 +9,21 @@
 			if($this->request->is('post')) {
 
 				$dados = $this->request->data;
-
-				//pr($dados);
-
-				//$email = $this->Usuario->findByEmail($dados['Usuario']['email']);
-				$email = $this->Usuario->query('
-					select * from usuarios where email = '.$dados['Usuario']['email']);
-				pr($email);
-				/*
+				$email = $this->Usuario->findByEmail($dados['Usuario']['email']);
+				
 				if(empty($email)) {
 
-					//echo "<script>alert('Email não encontrado, por favor tente novamente.');</script>";
+					echo "<script>alert('Email não encontrado, por favor tente novamente.');</script>";
 
-					//echo "<script>window.location='/sgv';</script>";
+					echo "<script>window.location='/sgv';</script>";
 
-					$this->redirect(array('action'=>'teste'));
-				}*/
+					
+				}
 			}
 
 		}
 		
-		public function teste() {
-			$this->autoRender=false;
-			pr('cai aqui');
+		public function add() {
+			$this->Usuario->save($this->request->data);
 		}
 	}
-
-<<<<<<< HEAD
-
-?>
-
-=======
-?>
->>>>>>> 538bf6f763619a458daf9c44c00471bd64623d5a

@@ -31,11 +31,7 @@ App::uses('Model', 'Model');
  */
 class AppModel extends Model {
 	
-	function __construct(){
-		parent::__construct();
-		$nome_banco = (CakeSession::read('nome_banco'));
-		$this->useDbConfig = $nome_banco;
-	}
+	
 	
 	
 	
