@@ -23,6 +23,8 @@
     <link rel="stylesheet" href="<?php echo $this->webroot ?>assets/css/cs-skin-elastic.css">
     <link rel="stylesheet" href="<?php echo $this->webroot ?>assets/css/lib/datatable/dataTables.bootstrap.min.css">
     <link rel="stylesheet" href="<?php echo $this->webroot ?>assets/css/style.css">
+    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
 
     <link href="https://cdn.jsdelivr.net/npm/chartist@0.11.0/dist/chartist.min.css" rel="stylesheet">
 
@@ -70,6 +72,9 @@
         .minusculo {
             text-transform: lowercase!important;
         }
+        .row {
+            justify-content: center;
+        }
     </style>
 
     <?php  
@@ -82,6 +87,10 @@
     <?php echo $this->Flash->render(); ?>
     <!-- <?php echo $this->fetch('content'); ?> -->
     <!-- /#right-panel -->
+
+    <!-- Aqui, voce vai alterar demtro da div container a página de login -->
+
+
             <div class="container">
                 <div class='row'>
                     <div>
@@ -145,6 +154,15 @@
     <script src="<?php echo $this->webroot ?>assets/js/bootstrap@4.1.3/dist/bootstrap.min.js"></script>
     <script src="<?php echo $this->webroot ?>assets/js/jquery-match-height@0.7.2/dist/jquery.matchHeight.min.js"></script>
     <script src="<?php echo $this->webroot ?>assets/js/main.js"></script>
+
+     <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Core plugin JavaScript-->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom scripts for all pages-->
+  <script src="js/sb-admin-2.min.js"></script>
 
    
 </body>
