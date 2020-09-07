@@ -1,2 +1,2 @@
-# sgv
-Sistema de Gestao de Varejo
+# loja
+Ecommerce padrão para todas Ars

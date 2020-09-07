@@ -1,0 +1,5 @@
+[27-Apr-2020 22:58:13 America/Sao_Paulo] PHP Warning:  require(/home/arprimec/public_html/propostas/lib/Cake/Core/App.php): failed to open stream: No such file or directory in /home/arprimec/public_html/propostas/lib/Cake/bootstrap.php on line 139
+[27-Apr-2020 22:58:13 America/Sao_Paulo] PHP Fatal error:  require(): Failed opening required '/home/arprimec/public_html/propostas/lib/Cake/Core/App.php' (include_path='/home/arprimec/public_html/propostas/lib:.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/arprimec/public_html/propostas/lib/Cake/bootstrap.php on line 139
+[27-Apr-2020 23:03:12 America/Sao_Paulo] PHP Fatal error:  Class 'CakeSession' not found in /home/arprimec/public_html/propostas/lib/Cake/I18n/I18n.php on line 212
+[27-Apr-2020 23:08:00 America/Sao_Paulo] PHP Fatal error:  Class 'CakeSession' not found in /home/arprimec/public_html/propostas/lib/Cake/I18n/I18n.php on line 212
+[27-Apr-2020 23:57:37 America/Sao_Paulo] PHP Fatal error:  Call to undefined function pr() in /home/arprimec/public_html/propostas/app/webroot/info.php on line 2

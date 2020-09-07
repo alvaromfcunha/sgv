@@ -1,0 +1,145 @@
+<?php
+    $iphone = strpos($_SERVER['HTTP_USER_AGENT'],"iPhone");
+    $ipad = strpos($_SERVER['HTTP_USER_AGENT'],"iPad");
+    $android = strpos($_SERVER['HTTP_USER_AGENT'],"Android");
+    $palmpre = strpos($_SERVER['HTTP_USER_AGENT'],"webOS");
+    $berry = strpos($_SERVER['HTTP_USER_AGENT'],"BlackBerry");
+    $ipod = strpos($_SERVER['HTTP_USER_AGENT'],"iPod");
+    $symbian =  strpos($_SERVER['HTTP_USER_AGENT'],"Symbian");
+    if ($iphone || $ipad || $android || $palmpre || $ipod || $berry || $symbian == true){
+        $mobile = 1;
+    }else{
+        $mobile = 0;
+    }
+
+    $modelos = $this->requestAction('apis/retorna_modelos/DropCode@2020');
+    $modelos = json_decode($modelos,true);
+
+    $tipos = $this->requestAction('apis/retorna_tipos/DropCode@2020');
+    $tipos = json_decode($tipos,true);    
+
+    $midias = $this->requestAction('apis/retorna_midias/DropCode@2020');
+    $midias  = json_decode($midias,true);    
+    
+    $validades = $this->requestAction('apis/retorna_validades/DropCode@2020');
+    $validades  = json_decode($validades,true);    
+?>
+
+
+        
+
+<div class="row setup-content" id="div_step-2">
+    <div class="col-md-12">
+        <div class='col-md-1'></div>
+         <div id="align" class="row">
+            <?php if($mobile==0){ ?>
+            <div id="alinhamento" class="col-md-3 bd">
+            <?php }else{ ?>
+            <div id="alinhamento" style="height: 345px;" class="col-md-2 bd">
+            <?php } ?>
+
+                <div>
+                    <h3 class="e3"><b>Modelo <p class="glyphicon glyphicon-share-alt"></p></b></h3>
+                </div>
+
+                <?php for ($i=0; $i <count($modelos) ; $i++) { ?>
+                    <div id="" class="e2" >
+                        <input type="radio"  name="modelo" value="<?php echo $modelos[$i]['value'] ?>" 
+                         id="modelo_<?php echo $modelos[$i]['value'] ?>" 
+                         onclick='buscar_produto()'  <?php if ($i ==0){ ?> checked <?php } ?>
+                         />
+                        <label for="modelo_<?php echo $modelos[$i]['value'] ?>"><img class="cat" src="<?php echo $modelos[$i]['img'] ?>">&nbsp;&nbsp;<?php echo $modelos[$i]['nome']?></label>
+                    </div>
+                <? } ?>
+                
+                
+            </div> <!-- fim div categoria class md2 -->
+
+
+            <!-- tipos -->
+            <?php if($mobile==0){ ?>
+            <div id="alinhamento" class="col-md-2 bd">
+            <?php }else{ ?>
+            <div id="alinhamento" style="height: 175px;" class="col-md-2 bd">
+            <?php } ?>
+
+                <div>
+                    <h3 class="e3"><b>Tipo <p class=" glyphicon glyphicon-share-alt"></p></b> </h3>
+                </div>
+
+                <?php for ($i=0; $i <count($tipos) ; $i++) { ?>
+                    <div id="" class="e2" >
+                        <input type="radio"  name="tipo" value="<?php echo $tipos[$i]['value'] ?>" 
+                        id="tipo_<?php echo $tipos[$i]['value'] ?>" 
+                         onclick='buscar_produto()'  <?php if ($i ==0){ ?> checked <?php } ?>
+                         />
+                        <label for="tipo_<?php echo $tipos[$i]['value'] ?>" ><img class="tokenC" src="<?php echo $tipos[$i]['img'] ?>">&nbsp;&nbsp;<?php echo $tipos[$i]['nome'] ?></label>
+                    </div>
+                <? } ?>
+
+            </div> <!-- fim div modelo class md2 -->
+
+            <?php if($mobile==0){ ?>
+            <div id="alinhamento" class="col-md-2 bd">
+            <?php }else{ ?>
+            <div id="alinhamento" style="height: 295px;" class="col-md-2 bd">
+            <?php } ?>
+
+                <div>
+                    <h3 class="e3"><b>MÍDIA <span class="glyphicon glyphicon-share-alt"></span></b></h3>
+                </div>
+
+                <?php for ($i=0; $i <count($midias) ; $i++) { ?>
+                    <div id="" class="e2" >
+                        <input type="radio"  name="midia" value="<?php echo $midias[$i]['value'] ?>" 
+                        id="midia_<?php echo $midias[$i]['value'] ?>" 
+                         onclick='buscar_produto()'  <?php if ($i ==0){ ?> checked <?php } ?>
+                         />
+                        <label for="midia_<?php echo $midias[$i]['value'] ?>" ><img class="cartao2" src="<?php echo $midias[$i]['img'] ?>">&nbsp;&nbsp;<?php echo $midias[$i]['nome'] ?></label>
+                    </div>
+                <? } ?>
+
+            </div> <!-- fim div midia class md2 -->
+
+            <?php if($mobile==0){ ?>
+            <div id="alinhamento" class="col-md-2 bd">
+            <?php }else{ ?>
+            <div id="alinhamento" style="height: 225px;" class="col-md-2 bd">
+            <?php } ?>
+
+                <div>
+                    <h3 class="e3"><b>VALIDADE <p class=" glyphicon glyphicon-share-alt"></p></b> </h3>
+                </div>
+
+                <?php for ($i=0; $i <count($validades) ; $i++) { ?>
+                    <div id="" class="e2" >
+                        <input type="radio"  name="validade" value="<?php echo $validades[$i]['value'] ?>" 
+                         id="validade<?php echo $validades[$i]['value'] ?>" 
+                         onclick='buscar_produto()'  <?php if ($i ==0){ ?> checked <?php } ?>
+                         />
+                        <label for="validade<?php echo $validades[$i]['value'] ?>" >&nbsp;&nbsp;<?php echo $validades[$i]['nome'] ?></label>
+                    </div>
+                <? } ?>
+
+            </div>  <!-- fim div validade class md2 -->
+
+            <?php if($mobile==0){ ?>
+            <div id="alinhamento" class="col-md-3    bd">
+            <?php }else{ ?>
+            <div id="alinhamento" style="height: 225px;" class="col-md-2 bd">
+            <?php } ?>
+
+                <div>
+                    <h3 class="e3"><b>Produtos <p class=" glyphicon glyphicon-share-alt"></p></b> </h3>
+                </div>
+                <div id='trocar'></div> 
+               
+            </div>  <!-- fim div validade class md2 -->
+
+            <input id="preco_produto" type="hidden" name="preco" value="0">
+            <input id="preco_delivery" type="hidden" name="p.delivery" value="0">
+
+        </div>
+        <button id='botao_2' class="btn btn-danger nextBtn btn-lg pull-right" type="button"  disabled>Próximo</button>
+    </div>
+</div>      

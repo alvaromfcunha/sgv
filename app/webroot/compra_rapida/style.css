@@ -1,0 +1,242 @@
+label{
+    font-weight: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.btn{
+    font-family: 'Roboto', sans-serif;
+}
+.cor_titulo{
+    color:#32A8B4;
+    text-align: center;
+    font-family: Tahoma;
+    font-size: 30px;
+}   
+#e{
+    margin-top: 60px;
+}
+/*.bd{
+    background-color: #EBEDEC;
+    width: 16%;
+    margin-left: 3px;
+}*/
+.e2{
+    margin-bottom: 30px;
+}
+.e3{
+    margin-bottom: 30px;
+    text-align: left;
+    color: #343a40;
+    font-family: Tahoma;
+}
+#alinhamento{
+    height: 396px;
+}
+#align{
+    margin-left: 10px;
+}
+#color_div{
+    background-color: white;        
+    height: 280px;
+    width: 190px;
+    margin-left: -21px;
+    border:dashed;
+}
+#cor_div{
+    background-color:#EBEDEC ;
+    margin-top: 20px;
+    height: 150px;
+}
+.p{
+    text-align: center;
+    margin-top: 10px;
+}
+#btn{
+    margin-top: 10px;
+    width: 180px;
+    height: 60px;
+    margin-left: 0px;
+    background-color: #32A8B4 ;
+    color: white;
+    font-size: 23px;
+}
+#btn_aplicar{
+    background-color: #32A8B4 ;
+    color: white;
+}
+#btnDoc{
+    background-color: #32A8B4;
+    color:white;
+    width: 800px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+#btnDiv{
+    margin-top: 60px;
+    margin-left: 38px;
+}
+#divBan{
+    margin-top: 30px;
+}
+#btnBan{
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 120px;
+}
+.cartao2{
+    width: 20px;
+}
+.tokenC{
+    width: 20px;
+}
+.cat{
+    width: 10px;
+}
+#cartaoLeitora{
+    width: 20px;
+}
+#token2{
+    width: 10px;
+}
+.invisivel{
+    display: none;
+}
+.np{
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+#img_cabecalho{
+    width: 100%;
+    height: 50%;
+    margin-left: -15px;
+}
+.corTextoRodape{
+    color:#32A8B4;
+}
+.imgsRodape{
+    width: 20px;
+    height: 20px;
+}
+.imgwpp{
+    width: 45px;
+    height: 35px;
+    margin-left: -12px;
+}
+.imggps{
+    width: 17px;
+    height: 20px;   
+}
+
+
+.frb-group {
+    margin: 15px 0;
+}
+
+.frb ~ .frb {
+    margin-top: 15px;
+}
+
+.frb input[type="radio"]:empty,
+.frb input[type="checkbox"]:empty {
+    display: none;
+}
+
+.frb input[type="radio"] ~ label:before,
+.frb input[type="checkbox"] ~ label:before {
+    font-family: FontAwesome;
+    content: '\f096';
+    position: absolute;
+    top: 50%;
+    margin-top: -11px;
+    left: 15px;
+    font-size: 22px;
+}
+
+.frb input[type="radio"]:checked ~ label:before,
+.frb input[type="checkbox"]:checked ~ label:before {
+    content: '\f046';
+}
+
+.frb input[type="radio"] ~ label,
+.frb input[type="checkbox"] ~ label {
+    position: relative;
+    cursor: pointer;
+    width: 100%;
+    background-color: #fff;
+}
+
+.frb input[type="radio"] ~ label:focus,
+.frb input[type="radio"] ~ label:hover,
+.frb input[type="checkbox"] ~ label:focus,
+.frb input[type="checkbox"] ~ label:hover {
+    box-shadow: 0px 0px 3px #333;
+}
+
+.frb input[type="radio"]:checked ~ label,
+.frb input[type="checkbox"]:checked ~ label {
+    color: #fafafa;
+}
+
+.frb input[type="radio"]:checked ~ label,
+.frb input[type="checkbox"]:checked ~ label {
+    
+}
+
+.frb.frb-default input[type="radio"]:checked ~ label,
+.frb.frb-default input[type="checkbox"]:checked ~ label {
+    color: #333;
+}
+
+.frb.frb-primary input[type="radio"]:checked ~ label,
+.frb.frb-primary input[type="checkbox"]:checked ~ label {
+    background-color: #337ab7;
+}
+
+.frb.frb-success input[type="radio"]:checked ~ label,
+.frb.frb-success input[type="checkbox"]:checked ~ label {
+    background-color: #5cb85c;
+}
+
+.frb.frb-info input[type="radio"]:checked ~ label,
+.frb.frb-info input[type="checkbox"]:checked ~ label {
+    background-color: #5bc0de;
+}
+
+.frb.frb-warning input[type="radio"]:checked ~ label,
+.frb.frb-warning input[type="checkbox"]:checked ~ label {
+    background-color: #f0ad4e;
+}
+
+.frb.frb-danger input[type="radio"]:checked ~ label,
+.frb.frb-danger input[type="checkbox"]:checked ~ label {
+    background-color: #d9534f;
+}
+
+.frb input[type="radio"]:empty ~ label span,
+.frb input[type="checkbox"]:empty ~ label span {
+    display: inline-block;
+}
+
+.frb input[type="radio"]:empty ~ label span.frb-title,
+.frb input[type="checkbox"]:empty ~ label span.frb-title {
+    font-size: 16px;
+    font-weight: 700;
+    margin: 5px 5px 5px 50px;
+}
+
+.frb input[type="radio"]:empty ~ label span.frb-description,
+.frb input[type="checkbox"]:empty ~ label span.frb-description {
+    font-weight: normal;
+    color: #343a40;
+    margin: 5px 5px 5px 50px;
+}
+
+.frb input[type="radio"]:empty:checked ~ label span.frb-description,
+.frb input[type="checkbox"]:empty:checked ~ label span.frb-description {
+    color: #fafafa;
+}
+
+.frb.frb-default input[type="radio"]:empty:checked ~ label span.frb-description,
+.frb.frb-default input[type="checkbox"]:empty:checked ~ label span.frb-description {
+    color: #343a40;
+}
