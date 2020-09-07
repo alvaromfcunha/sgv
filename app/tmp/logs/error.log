@@ -16287,3 +16287,32 @@ Stack Trace:
 #4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
 #5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #6 {main}
+2020-09-07 04:51:32 Error: [ParseError] syntax error, unexpected '<<' (T_SL), expecting end of file
+Request URL: /sgv/
+Stack Trace:
+#0 [internal function]: App::load('UsuariosControl...')
+#1 [internal function]: spl_autoload_call('UsuariosControl...')
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(266): class_exists('UsuariosControl...')
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2020-09-07 04:53:29 Error: [ParseError] syntax error, unexpected '<<' (T_SL), expecting end of file
+Request URL: /sgv/
+Stack Trace:
+#0 [internal function]: App::load('UsuariosControl...')
+#1 [internal function]: spl_autoload_call('UsuariosControl...')
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(266): class_exists('UsuariosControl...')
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2020-09-07 04:53:29 Error: [MissingControllerException] Controller class VendorController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorController',
+  'plugin' => NULL,
+)
+Request URL: /sgv/vendor/fontawesome-free/css/all.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
