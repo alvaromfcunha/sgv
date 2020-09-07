@@ -72,6 +72,9 @@
         .minusculo {
             text-transform: lowercase!important;
         }
+        .row {
+            justify-content: center;
+        }
     </style>
 
     <?php  
