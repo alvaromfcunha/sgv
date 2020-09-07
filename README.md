@@ -1,2 +1,3 @@
-# loja
-Ecommerce padrão para todas Ars
+# SGV
+Sistema de Gerenciamento de Varejo
+
