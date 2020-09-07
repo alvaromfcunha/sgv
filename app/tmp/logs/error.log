@@ -16097,3 +16097,83 @@ Stack Trace:
 #19 C:\xampp\htdocs\sistema\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
 #20 C:\xampp\htdocs\sistema\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #21 {main}
+2020-09-07 04:37:15 Error: [ParseError] syntax error, unexpected '<<' (T_SL), expecting end of file
+Request URL: /sgv/
+Stack Trace:
+#0 [internal function]: App::load('UsuariosControl...')
+#1 [internal function]: spl_autoload_call('UsuariosControl...')
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(266): class_exists('UsuariosControl...')
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2020-09-07 04:39:43 Error: [ParseError] syntax error, unexpected '<<' (T_SL), expecting end of file
+Request URL: /sgv/
+Stack Trace:
+#0 [internal function]: App::load('UsuariosControl...')
+#1 [internal function]: spl_autoload_call('UsuariosControl...')
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(266): class_exists('UsuariosControl...')
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2020-09-07 04:40:29 Error: [ParseError] syntax error, unexpected '<<' (T_SL), expecting end of file
+Request URL: /sgv/
+Stack Trace:
+#0 [internal function]: App::load('UsuariosControl...')
+#1 [internal function]: spl_autoload_call('UsuariosControl...')
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(266): class_exists('UsuariosControl...')
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2020-09-07 04:40:40 Error: [ParseError] syntax error, unexpected '<<' (T_SL), expecting end of file
+Request URL: /sgv/
+Stack Trace:
+#0 [internal function]: App::load('UsuariosControl...')
+#1 [internal function]: spl_autoload_call('UsuariosControl...')
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(266): class_exists('UsuariosControl...')
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2020-09-07 04:41:14 Error: [ParseError] syntax error, unexpected '<<' (T_SL), expecting end of file
+Request URL: /sgv/
+Stack Trace:
+#0 [internal function]: App::load('UsuariosControl...')
+#1 [internal function]: spl_autoload_call('UsuariosControl...')
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(266): class_exists('UsuariosControl...')
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2020-09-07 04:41:27 Error: [ParseError] syntax error, unexpected '<<' (T_SL), expecting end of file
+Request URL: /sgv/
+Stack Trace:
+#0 [internal function]: App::load('UsuariosControl...')
+#1 [internal function]: spl_autoload_call('UsuariosControl...')
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(266): class_exists('UsuariosControl...')
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2020-09-07 04:41:43 Error: [ParseError] syntax error, unexpected '<<' (T_SL), expecting end of file
+Request URL: /sgv/
+Stack Trace:
+#0 [internal function]: App::load('UsuariosControl...')
+#1 [internal function]: spl_autoload_call('UsuariosControl...')
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(266): class_exists('UsuariosControl...')
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2020-09-07 04:41:51 Error: [ParseError] syntax error, unexpected '<<' (T_SL), expecting end of file
+Request URL: /sgv/
+Stack Trace:
+#0 [internal function]: App::load('UsuariosControl...')
+#1 [internal function]: spl_autoload_call('UsuariosControl...')
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(266): class_exists('UsuariosControl...')
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}

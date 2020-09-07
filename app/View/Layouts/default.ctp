@@ -80,15 +80,15 @@
 
 <body class="bg-dark" >  
     <?php echo $this->Flash->render(); ?>
-    <?php echo $this->fetch('content'); ?>
+    <!-- <?php echo $this->fetch('content'); ?> -->
     <!-- /#right-panel -->
             <div class="container">
                 <div class='row'>
                     <div class="col-md-5">
-                        
+                        <h1>teste</h1>
                     </div>  
+                </div>
             </div>
-        </div>
     
     <!-- Scripts -->
     <script src="<?php echo $this->webroot ?>assets/js/popper.js@1.14.4/dist/popper.min.js"></script>
