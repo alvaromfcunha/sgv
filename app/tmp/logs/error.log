@@ -16287,7 +16287,11 @@ Stack Trace:
 #4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
 #5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #6 {main}
+<<<<<<< HEAD
 2020-09-07 04:51:32 Error: [ParseError] syntax error, unexpected '<<' (T_SL), expecting end of file
+=======
+2020-09-07 04:50:24 Error: [ParseError] syntax error, unexpected '<<' (T_SL), expecting end of file
+>>>>>>> 680531f946ddfe4cba115f1c918636d7495e524f
 Request URL: /sgv/
 Stack Trace:
 #0 [internal function]: App::load('UsuariosControl...')
@@ -16297,7 +16301,11 @@ Stack Trace:
 #4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
 #5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #6 {main}
+<<<<<<< HEAD
 2020-09-07 04:53:29 Error: [ParseError] syntax error, unexpected '<<' (T_SL), expecting end of file
+=======
+2020-09-07 04:52:50 Error: [ParseError] syntax error, unexpected '<<' (T_SL), expecting end of file
+>>>>>>> 680531f946ddfe4cba115f1c918636d7495e524f
 Request URL: /sgv/
 Stack Trace:
 #0 [internal function]: App::load('UsuariosControl...')
@@ -16307,6 +16315,7 @@ Stack Trace:
 #4 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
 #5 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #6 {main}
+<<<<<<< HEAD
 2020-09-07 04:53:29 Error: [MissingControllerException] Controller class VendorController could not be found.
 Exception Attributes: array (
   'class' => 'VendorController',
@@ -16316,3 +16325,5 @@ Request URL: /sgv/vendor/fontawesome-free/css/all.min.css
 Stack Trace:
 #0 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+=======
+>>>>>>> 680531f946ddfe4cba115f1c918636d7495e524f
