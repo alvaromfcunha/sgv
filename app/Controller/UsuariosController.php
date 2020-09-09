@@ -9,21 +9,35 @@
 			if($this->request->is('post')) {
 
 				$dados = $this->request->data;
-				$email = $this->Usuario->findByEmail($dados['Usuario']['email']);
+				$usuario = $this->Usuario->findByEmail($dados['Usuario']['email']);
 				
-				if(empty($email)) {
-
+				if(empty($usuario)) {
 					echo "<script>alert('Email não encontrado, por favor tente novamente.');</script>";
-
 					echo "<script>window.location='/sgv';</script>";
 
 					
+				}else{
+					if($usuario['Usuario']['tipo']==0){
+						$this->Session->write("admin",$usuario);
+						$this->redirect("/admin/usuarios/index");
+					}else if($usuario['Usuario']['tipo']==1){
+						$this->Session->write("user",$usuario);
+						$this->redirect("/user/usuarios/index");
+					}
 				}
 			}
 
 		}
 		
-		public function add() {
-			$this->Usuario->save($this->request->data);
+		public function admin_index() {
+			$this->layout = "default_admin";
+			
+		}
+
+		public function user_index(){
+			$this->layout = "default_user";
+			
 		}
 	}
+
+?>

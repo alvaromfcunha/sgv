@@ -34,4 +34,28 @@ class AppController extends Controller {
 	//public $components = array("Session","DebugKit.Toolbar");
 	public $components = array("Session","Flash","Util");
 
+	public function beforeFilter(){
+
+		if($this->params["prefix"]=="admin"){
+			$this->layout = "default_admin";
+			if(!$this->Session->check("admin")){
+				$this->Session->destroy();
+
+				$this->layout = "default";
+				$this->redirect("/");
+			}
+		}elseif ($this->params["prefix"]=="user") {
+			
+			$this->layout = "default_user";
+			if(!$this->Session->check("user")){
+				$this->Session->destroy();
+
+				$this->layout = "default";
+				$this->redirect("/");
+			}
+
+		}
+
+	}
+
 }

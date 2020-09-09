@@ -105,14 +105,9 @@
 
                                 <form action="usuarios/login" method="post" accept-charset="utf-8" id="form_submit">
                                     <div class="login-form-head">
-                                        <p>Cadastro</p>
+                                        <p>Login</p>
                                     </div>
                                     <div class="login-form-body">
-                                        <div class="form-gp focused">
-                                            <label for="nome">Nome</label>
-                                            <input name="data[Usuario][nome]" type="text" id="nome" autocomplete="off" required="true">
-                                            <i class="ti-key"></i>
-                                        </div>
                                         <div class="form-gp focused">
                                             <label for="email">Email</label>
                                             <input name="data[Usuario][email]" type="text" id="email" autocomplete="off" required="true">
