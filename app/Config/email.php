@@ -36,15 +36,5 @@
  */
 class EmailConfig {
 
-	public $sendgrid = array(
-		'host'=>'smtp.sendgrid.net',
-		'port'=>587,
-		'username'=>'apikey',
-		'password'=>'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',
-		'client'=>null,
-		'transport'=>'Smtp',
-		'from'=>array('nao-responder@dropcode.com.br'=>'ERP SIGEP'),
-		'format'=>'both'
-	);
 	
 }
