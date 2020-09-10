@@ -26086,3 +26086,351 @@ Stack Trace:
 #3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
 #4 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #5 {main}
+2020-09-10 05:04:25 Error: [MissingActionException] Action UsuariosController::admin_img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'admin_img',
+)
+Request URL: /sgv/admin/usuarios/img/undraw_posting_photo.svg
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-10 05:11:48 Error: [MissingViewException] View file "Usuarios\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Usuarios\\login.ctp',
+)
+Request URL: /sgv/
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\View\View.php(470): View->_getViewFileName('Usuarios\\login')
+#1 C:\xampp\htdocs\sgv\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-09-10 05:11:52 Error: [MissingViewException] View file "Usuarios\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Usuarios\\login.ctp',
+)
+Request URL: /sgv/usuarios/login
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\View\View.php(470): View->_getViewFileName('Usuarios\\login')
+#1 C:\xampp\htdocs\sgv\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-09-10 05:11:52 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/fontawesome-free/css/all.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-10 05:11:52 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-10 05:11:52 Error: [MissingActionException] Action UsuariosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'js',
+)
+Request URL: /sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-10 05:11:52 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery-easing/jquery.easing.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-10 05:11:52 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/bootstrap/js/bootstrap.bundle.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-10 05:11:54 Error: [MissingViewException] View file "Usuarios\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Usuarios\\login.ctp',
+)
+Request URL: /sgv/
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\View\View.php(470): View->_getViewFileName('Usuarios\\login')
+#1 C:\xampp\htdocs\sgv\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-09-10 05:11:59 Error: [MissingViewException] View file "Usuarios\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Usuarios\\login.ctp',
+)
+Request URL: /sgv/usuarios/login
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\View\View.php(470): View->_getViewFileName('Usuarios\\login')
+#1 C:\xampp\htdocs\sgv\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-09-10 05:11:59 Error: [MissingActionException] Action UsuariosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'js',
+)
+Request URL: /sgv/usuarios/js/sb-admin-2.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-10 05:11:59 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/fontawesome-free/css/all.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-10 05:11:59 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery-easing/jquery.easing.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-10 05:11:59 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-10 05:11:59 Error: [MissingActionException] Action UsuariosController::vendor() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'vendor',
+)
+Request URL: /sgv/usuarios/vendor/bootstrap/js/bootstrap.bundle.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-10 05:12:01 Error: [MissingViewException] View file "Usuarios\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Usuarios\\login.ctp',
+)
+Request URL: /sgv/
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\View\View.php(470): View->_getViewFileName('Usuarios\\login')
+#1 C:\xampp\htdocs\sgv\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-09-10 05:16:20 Error: [MissingActionException] Action UsuariosController::admin_img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'admin_img',
+)
+Request URL: /sgv/admin/usuarios/img/undraw_posting_photo.svg
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-10 05:20:22 Error: [MissingViewException] View file "Usuarios\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Usuarios\\login.ctp',
+)
+Request URL: /sgv/
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\View\View.php(470): View->_getViewFileName('Usuarios\\login')
+#1 C:\xampp\htdocs\sgv\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-09-10 05:20:26 Error: [MissingControllerException] Controller class DashboardController could not be found.
+Exception Attributes: array (
+  'class' => 'DashboardController',
+  'plugin' => NULL,
+)
+Request URL: /sgv/admin/dashboard/index
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-09-10 05:20:26 Error: [MissingControllerException] Controller class DashboardController could not be found.
+Exception Attributes: array (
+  'class' => 'DashboardController',
+  'plugin' => NULL,
+)
+Request URL: /sgv/admin/dashboard/img/undraw_posting_photo.svg
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-09-10 05:20:55 Error: [MissingViewException] View file "Usuarios\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Usuarios\\login.ctp',
+)
+Request URL: /sgv/
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\View\View.php(470): View->_getViewFileName('Usuarios\\login')
+#1 C:\xampp\htdocs\sgv\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-09-10 05:20:59 Error: [MissingControllerException] Controller class DashboardController could not be found.
+Exception Attributes: array (
+  'class' => 'DashboardController',
+  'plugin' => NULL,
+)
+Request URL: /sgv/admin/dashboard/index
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-09-10 05:20:59 Error: [MissingControllerException] Controller class DashboardController could not be found.
+Exception Attributes: array (
+  'class' => 'DashboardController',
+  'plugin' => NULL,
+)
+Request URL: /sgv/admin/dashboard/img/undraw_posting_photo.svg
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-09-10 05:22:55 Error: [MissingControllerException] Controller class DashboardController could not be found.
+Exception Attributes: array (
+  'class' => 'DashboardController',
+  'plugin' => NULL,
+)
+Request URL: /sgv/admin/dashboard/index
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-09-10 05:23:11 Error: [MissingControllerException] Controller class DashboardController could not be found.
+Exception Attributes: array (
+  'class' => 'DashboardController',
+  'plugin' => NULL,
+)
+Request URL: /sgv/admin/dashboard/index
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-09-10 05:24:40 Error: [MissingControllerException] Controller class DashboardController could not be found.
+Exception Attributes: array (
+  'class' => 'DashboardController',
+  'plugin' => NULL,
+)
+Request URL: /sgv/admin/dashboard/index
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-09-10 05:26:14 Error: [MissingActionException] Action DashboardController::admin_index() could not be found.
+Exception Attributes: array (
+  'controller' => 'DashboardController',
+  'action' => 'admin_index',
+)
+Request URL: /sgv/admin/dashboard/index
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DashboardController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-10 05:26:35 Error: [MissingViewException] View file "Dashboard\admin_index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Dashboard\\admin_index.ctp',
+)
+Request URL: /sgv/admin/dashboard/index
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\View\View.php(470): View->_getViewFileName('Dashboard\\admin...')
+#1 C:\xampp\htdocs\sgv\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DashboardController), Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-09-10 05:29:32 Error: [MissingViewException] View file "Usuarios\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Usuarios\\login.ctp',
+)
+Request URL: /sgv/
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\View\View.php(470): View->_getViewFileName('Usuarios\\login')
+#1 C:\xampp\htdocs\sgv\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-09-10 05:29:43 Error: [MissingActionException] Action DashboardController::user_index() could not be found.
+Exception Attributes: array (
+  'controller' => 'DashboardController',
+  'action' => 'user_index',
+)
+Request URL: /sgv/user/dashboard/index
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DashboardController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-10 05:30:30 Error: [MissingActionException] Action DashboardController::user_index() could not be found.
+Exception Attributes: array (
+  'controller' => 'DashboardController',
+  'action' => 'user_index',
+)
+Request URL: /sgv/user/dashboard/index
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DashboardController), Object(CakeRequest))
+#2 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-09-10 05:30:43 Error: [MissingViewException] View file "Dashboard\user_index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Dashboard\\user_index.ctp',
+)
+Request URL: /sgv/user/dashboard/index
+Stack Trace:
+#0 C:\xampp\htdocs\sgv\lib\Cake\View\View.php(470): View->_getViewFileName('Dashboard\\user_...')
+#1 C:\xampp\htdocs\sgv\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\sgv\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DashboardController), Object(CakeRequest))
+#4 C:\xampp\htdocs\sgv\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
